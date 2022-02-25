@@ -19,3 +19,7 @@ a note at the top describing how it is used.
 - ```is_even.bf``` - Determine whether a number is even or odd.
 - ```length_of_input.bf``` - Print the length of the input string.
 - ```rot13.bf``` - Ultra secure encryption.
+
+If you would like to program nontrivial Brainfuck, check out this page on
+[Brainfuck algorithms](https://esolangs.org/wiki/Brainfuck_algorithms), which
+has been invaluable to me.
