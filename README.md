@@ -16,6 +16,6 @@ a note at the top describing how it is used.
 - ```dice_1d6.rbf``` - Roll a 6-sided die.
 - ```dice_ndn.rbf``` - Perform an ndn dice roll.
 - ```divide.bf``` - Divide two numbers and print the decimal result.
-- ```iseven.bf``` - Determine whether a number is even or odd.
-- ```length of input.bf``` - Print the length of the input string.
+- ```is_even.bf``` - Determine whether a number is even or odd.
+- ```length_of_input.bf``` - Print the length of the input string.
 - ```rot13.bf``` - Ultra secure encryption.
