@@ -9,6 +9,8 @@ should be trivial to implement into any interpreter that doesn't support it.
 Most of these programs are in minified form without any meaningful
 documentation, so they're really more to show off than to learn from.
 
+---
+
 Here is the current list of programs. If a program takes input, there should be
 a note at the top describing how it is used.
 - ```calculate_e.bf``` - Calculate e.
@@ -19,6 +21,8 @@ a note at the top describing how it is used.
 - ```is_even.bf``` - Determine whether a number is even or odd.
 - ```length_of_input.bf``` - Print the length of the input string.
 - ```rot13.bf``` - Ultra secure encryption.
+
+---
 
 If you would like to program nontrivial Brainfuck, check out this page on
 [Brainfuck algorithms](https://esolangs.org/wiki/Brainfuck_algorithms), which
